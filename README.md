@@ -5,7 +5,7 @@ This project investigates population movement trends within Germany using machin
 ## Project Highlights:
 - Analyzed population data based on historic data. 
 - Built a machine learning model using  regression and the decision tree to predict population shifts.
-- Achieved a <b>rmse<b/> `865957.972500` and a <b>mae<b/> `794151.278237` in predicting population movement for both genders.
+- Achieved a <b>rmse</b> `865957.972500` and a <b>mae</b> `794151.278237` in predicting population movement for both genders.
 - This model can be used for Potential applications, e.g., resource allocation, infrastructure planning.
 
 ## Data Sources:
@@ -14,6 +14,7 @@ This project investigates population movement trends within Germany using machin
 
 ## Tools and Technologies:
 Programming Language(s): Python
+
 Libraries: scikit-learn, pandas, numpy
 
 ## Getting Started:
