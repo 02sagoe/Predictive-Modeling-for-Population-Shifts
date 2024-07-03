@@ -19,4 +19,5 @@ Libraries: scikit-learn, pandas, numpy
 
 ## Getting Started:
 1. Clone this repository: `git clone https://github.com/02sagoe/Predictive-Modeling-for-Population-Shifts.git`
-2. Use this notebook: `python main.ipynb`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Use this notebook: `python main.ipynb`
